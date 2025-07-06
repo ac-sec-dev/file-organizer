@@ -3,7 +3,7 @@ Automatically organize your files by **extension** with just one command!<br>
 Simple, efficient, with **simulation** support, **verbose mode**, and ready to expand with new filters (like date, size, and recursive organization).
 
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalities
 
 ✅ File organization by **extension**<br>
 ✅ **CLI supporte** using `argparse`<br>
@@ -14,7 +14,7 @@ Simple, efficient, with **simulation** support, **verbose mode**, and ready to e
 
 📦 Ready for future updates
 
-## 📦 Instalação
+## 📦 Installation
 Clone the repository:
 ```bash
 git clone https://github.com/ac-sec-dev/file-organizer.git
@@ -27,14 +27,14 @@ pip install -r requirements.txt
 ```
 > *ℹ️ Since this version only uses `pytest` as an external library, there are no mandatory dependencies if you won't run tests*
 
-## 🧠 Uso 
+## 🧠 Use
 Run the program pointing to the folder you want to organize:
 
 ```bash 
 python main.py <path> [options]
 ```
 
-## 🔧 Opções Disponíveis 
+## 🔧 Available Options
 
 |   Opção    | Descrição |
 |------------|-----------|
@@ -43,7 +43,7 @@ python main.py <path> [options]
 |`-v, --verbose` | Shows detailed file processing |
 | `-V, --version` | Displays program version |
 
-## 📌 Exemplos 
+## 📌 Example
 ```bash
 python main.py C:/MyFiles --mode extension --verbose
 ```
