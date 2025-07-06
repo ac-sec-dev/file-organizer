@@ -73,7 +73,7 @@ This project is licensed under the MIT License. Feel free to use, modify and dis
 ## 🤝 Contributing 
 Contributions are welcome! Some ideas for future features:
 
-📂 Recursive organizatino (subfolders)<br>
+📂 Recursive organization (subfolders)<br>
 ⏱️ Filter by modification date<br> 
 📏 Filter by file size<br> 
 📑 Action logging<br>
@@ -84,4 +84,4 @@ Open an *issue* with suggestions or submit a *pull request*
 
 ## ✨ Author 
 **Alecsander Moraes Santos de Oliveira**<br>
-[GitHub]() • [Instagram]() • `ac.dev`
+[GitHub](https://github.com/ac-sec-dev) • [Instagram](https://instagram.com/ac.dev) • `ac.dev`
